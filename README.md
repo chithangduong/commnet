@@ -1,5 +1,5 @@
-# Reference CommNet implementation
-Basic reference implementation of CommNet in Pytorch. 
+# Reference DeepMinCut implementation
+Basic reference implementation of DeepMinCut in Pytorch. 
 
 ## Requirements
 pytorch >= 1.0
